@@ -1,0 +1,7 @@
+DATA ANALYSIS REPORT
+----------------------
+Total: 410.0
+Average: 410.0
+Minimum: 45.0
+Maximum: 90.0
+Performance: High Performance
